@@ -52,7 +52,7 @@ body {
   position: absolute;
   height: calc(75vh / 9);
   width: calc(75vh / 9);
-  //background-color: red;
+  background-color: red;
   opacity: 0.0;
   z-index: 2;
 }
